@@ -1,0 +1,6 @@
+{
+  "name": "Bài tập Tiếng Anh Lớp 7",
+  "description": "Ứng dụng luyện tập tiếng Anh lớp 7 (Flyers - KET) với 30 câu trắc nghiệm theo 3 kỹ năng Từ vựng, Quét thông tin và Đọc hiểu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
